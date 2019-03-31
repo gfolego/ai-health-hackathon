@@ -1,5 +1,7 @@
 # Experiment for model training and generation
 
+Reference: https://nihcc.app.box.com/v/ChestXray-NIHCC/
+
 Download dataset images
 ```bash
 $ sudo apt-get update && \

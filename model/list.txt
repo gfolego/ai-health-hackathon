@@ -1,0 +1,36 @@
+https://nihcc.box.com/shared/static/vfk49d74nhbxq3nqjg0900w5nvkorp5c.gz
+    out=images_001.tar.gz
+    checksum=md5=fe8ed0a6961412fddcbb3603c11b3698
+https://nihcc.box.com/shared/static/i28rlmbvmfjbl8p2n3ril0pptcmcu9d1.gz
+    out=images_002.tar.gz
+    checksum=md5=ab07a2d7cbe6f65ddd97b4ed7bde10bf
+https://nihcc.box.com/shared/static/f1t00wrtdk94satdfb9olcolqx20z2jp.gz
+    out=images_003.tar.gz
+    checksum=md5=2301d03bde4c246388bad3876965d574
+https://nihcc.box.com/shared/static/0aowwzs5lhjrceb3qp67ahp0rd1l1etg.gz
+    out=images_004.tar.gz
+    checksum=md5=9f1b7f5aae01b13f4bc8e2c44a4b8ef6
+https://nihcc.box.com/shared/static/v5e3goj22zr6h8tzualxfsqlqaygfbsn.gz
+    out=images_005.tar.gz
+    checksum=md5=1861f3cd0ef7734df8104f2b0309023b
+https://nihcc.box.com/shared/static/asi7ikud9jwnkrnkj99jnpfkjdes7l6l.gz
+    out=images_006.tar.gz
+    checksum=md5=456b53a8b351afd92a35bc41444c58c8
+https://nihcc.box.com/shared/static/jn1b4mw4n6lnh74ovmcjb8y48h8xj07n.gz
+    out=images_007.tar.gz
+    checksum=md5=1075121ea20a137b87f290d6a4a5965e
+https://nihcc.box.com/shared/static/tvpxmn7qyrgl0w8wfh9kqfjskv6nmm1j.gz
+    out=images_008.tar.gz
+    checksum=md5=b61f34cec3aa69f295fbb593cbd9d443
+https://nihcc.box.com/shared/static/upyy3ml7qdumlgk2rfcvlb9k6gvqq2pj.gz
+    out=images_009.tar.gz
+    checksum=md5=442a3caa61ae9b64e61c561294d1e183
+https://nihcc.box.com/shared/static/l6nilvfa9cg3s28tqv1qc1olm3gnz54p.gz
+    out=images_010.tar.gz
+    checksum=md5=09ec81c4c31e32858ad8cf965c494b74
+https://nihcc.box.com/shared/static/hhq8fkdgvcari67vfhs7ppg2w6ni4jze.gz
+    out=images_011.tar.gz
+    checksum=md5=499aefc67207a5a97692424cf5dbeed5
+https://nihcc.box.com/shared/static/ioqwiy20ihqwyr8pf4c24eazhh281pbu.gz
+    out=images_012.tar.gz
+    checksum=md5=dc9fda1757c2de0032b63347a7d2895c
