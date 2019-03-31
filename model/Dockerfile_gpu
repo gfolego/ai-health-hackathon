@@ -1,0 +1,7 @@
+FROM tensorflow/tensorflow:1.13.1-gpu-py3
+
+RUN apt-get update && apt-get install --yes \
+    python3-pandas \
+    git \
+    && \
+    pip3 install git+https://github.com/raghakot/keras-vis.git@668b0e11dab93f3487f23c17e07f40554a8939e9

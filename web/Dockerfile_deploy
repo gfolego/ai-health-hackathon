@@ -1,0 +1,18 @@
+FROM tensorflow/tensorflow:1.13.1-py3
+
+RUN apt-get update && apt-get install --yes \
+    python3-flask \
+    python3-gevent \
+    git \
+    && \
+    pip3 install git+https://github.com/raghakot/keras-vis.git@668b0e11dab93f3487f23c17e07f40554a8939e9
+
+RUN mkdir /server/
+
+COPY model.hdf5 flask_api.py /server/
+COPY static /server/static/
+COPY templates /server/templates/
+COPY uploads /server/uploads/
+
+WORKDIR /server
+ENTRYPOINT ["python3", "flask_api.py"]
