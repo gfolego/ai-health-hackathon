@@ -48,3 +48,49 @@ input[type="file"] {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    height: 58px;
+    background: #E0E2E2;
+    box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+#logo{
+	top: 5px;
+	margin-left: 10px;
+	width: 80px;
+	height: 50px;
+	position: absolute;
+}
+
+label,button{
+	width: 120px;
+	height: 40px;
+	display: inline-block;
+	background: #ED6A65;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 25px;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: normal;
+	text-align: center;
+
+	color: #E0E2E2;
+}
+i{
+	margin-top: 2px;
+}
+#arrow{
+	left: 25%;
+	right: 25%;
+	top: 34.56%;
+	bottom: 34.56%;
+
+	width: 100px;
+	height: 50px;
+}
